@@ -54,6 +54,18 @@ keyboard/
 
 ---
 
+## Bill of Materials (BOM)
+
+| Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
+|------|----------|----------|------------------|------|-------------|
+| Cherry MX2A Switch Set | To make the buttons work | 1 | $42.00 | https://keychron.in/product/cherry-mx2a-switch-set/ | Keychron |
+| Keycaps | To mount above the MX switches | 1 | $12.60 | https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/cherry-colour-pbt-keycap-set/ | Meckeys |
+| PCB | PCB fabrication | 1 | $59.00 | https://robu.in/ | Robu.in |
+
+### Total Estimated Cost
+
+**$113.60 USD**
+
 ## Author
 
 Created by [AYUSH-pro-grammer](https://github.com/AYUSH-pro-grammer)
