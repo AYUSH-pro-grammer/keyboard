@@ -5,6 +5,10 @@ Custom mechanical keyboard PCB designed using KiCad.
 
 ## Images
 
+### Schematic
+<img width="1644" height="1208" alt="image" src="https://github.com/user-attachments/assets/73812962-68cc-4463-ae73-b20b07e187af" />
+
+
 ### PCB
 ![PCB](image/pcb.png)
 
