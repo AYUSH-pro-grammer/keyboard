@@ -3,6 +3,14 @@
 
 Custom mechanical keyboard PCB designed using KiCad.
 
+###Motivation
+
+I designed this device in order to get some practical experience in hardware design, PCB manufacturing, and embedded systems programming. Instead of using an off-the-shelf keyboard design, I aimed at learning all the steps required to manufacture a custom keyboard.
+
+Working on this project, I had the opportunity to do schematic design, PCB layouting, components selection, 3D rendering, firmware writing, and manufacturing preparation with the help of KiCad. Thus, having successfully completed the whole design cycle, I got some practical experience in both hardware and software engineering.
+
+It was my intention not only to manufacture a working device but also learn some electronics designing techniques along with problem solving in the engineering field while doing a project that is manufacturable and improvable in the future.
+
 ## Images
 
 ### Schematic
