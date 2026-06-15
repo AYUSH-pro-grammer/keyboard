@@ -27,14 +27,15 @@ It was my intention not only to manufacture a working device but also learn some
 ![PCB Back](image/pcb-3d-back.png)
 
 ### 3D Model 1
-![3D Model 1](image/3d-model-1.png)
+## Features<img width="1512" height="834" alt="Screenshot 2026-06-15 at 5 45 38 PM" src="https://github.com/user-attachments/assets/c6127631-d901-457c-b1aa-082dfde9d3fb" />
 
 ### 3D Model 2
-![3D Model 2](image/3d-model-2.png)
+<img width="1512" height="919" alt="Screenshot 2026-06-15 at 5 45 10 PM" src="https://github.com/user-attachments/assets/d4445bb2-0336-4617-8dee-947b45ba9b1c" />
+
 
 ---
 
-## Features
+
 
 - Custom Keyboard PCB
 - Designed in KiCad
