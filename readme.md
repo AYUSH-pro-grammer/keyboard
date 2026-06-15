@@ -67,17 +67,30 @@ keyboard/
 
 ---
 
-## Bill of Materials (BOM)
+## Bill of Materials
 
-| Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
-|------|----------|----------|------------------|------|-------------|
-| Cherry MX2A Switch Set | To make the buttons work | 1 | $42.00 | https://keychron.in/product/cherry-mx2a-switch-set/ | Keychron |
-| Keycaps | To mount above the MX switches | 1 | $12.60 | https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/cherry-colour-pbt-keycap-set/ | Meckeys |
-| PCB | PCB fabrication | 1 | $59.00 | https://robu.in/ | Robu.in |
+| Name | Purpose | Quantity | Avg Cost (USD) | Distributor |
+|------|----------|----------|----------|----------|
+| Cherry MX2A Switch Set | Key switches for typing | 1 Set | $42.00 | Keychron |
+| PBT Keycap Set | Keycaps for switches | 1 Set | $13.00 | Meckeys |
+| Raspberry Pi Pico | Keyboard microcontroller | 1 | $5.00 | Robu.in |
+| Rotary Encoder (EC11) | Volume/media control knob | 1 | $2.00 | Robu.in |
+| Encoder Knob | Mounts on rotary encoder | 1 | $1.00 | Robu.in |
+| 1N4148 Diodes | Key matrix isolation | 70–100 | $3.00 | Robu.in |
+| PCB Fabrication | Custom keyboard PCB | 1 | $25.00 | JLCPCB / PCBWay |
+| PCB Components | Headers, sockets, passive components | 1 Lot | $5.00 | Robu.in |
+| MX Hotswap Sockets (Optional) | Tool-free switch replacement | 70 | $15.00 | Meckeys / StackKB |
+| USB-C Cable | Connection to computer | 1 | $3.00 | Robu.in |
+| Stabilizers | Support for larger keys | 1 Set | $10.00 | Meckeys |
+| Screws & Standoffs | Assembly hardware | 1 Lot | $3.00 | Local Supplier |
+| 3D Printed Case | Keyboard enclosure | 1 | $20.00 | Local 3D Printing Service |
+| 3D Printed Encoder Knob (Optional) | Custom encoder knob | 1 | $1.00 | Local 3D Printing Service |
 
-### Total Estimated Cost
 
-**$113.60 USD**
+## Estimated Total
+
+**Recommended Hotswap Build Total: ~$144 USD**
+
 
 ## Author
 
