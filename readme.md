@@ -11,6 +11,17 @@ Working on this project, I had the opportunity to do schematic design, PCB layou
 
 It was my intention not only to manufacture a working device but also learn some electronics designing techniques along with problem solving in the engineering field while doing a project that is manufacturable and improvable in the future.
 
+
+### Build Looks 
+
+
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/6a442453-3962-4328-ba88-ca34943cb64e" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/122e8db2-c229-4335-8b73-18108a7bdd4b" />
+<img width="4000" height="3000" alt="image" src="https://github.com/user-attachments/assets/3ad983fd-c304-4d7e-ba63-90644d8fbfbb" />
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/e6e3584d-8a5f-46ab-b38b-1c56d9547bed" />
+
+
+
 ## Images
 
 ### Schematic
